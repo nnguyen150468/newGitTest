@@ -1,3 +1,5 @@
+x=100
+
 #declare variables
 word='dog'
 letter_left=list(word)
